@@ -1,6 +1,7 @@
 # Red-Pig-Logo
 SVG Code
-
+<!-- The same file as code is used in readme.md as an image -->
+![gradle-as](https://github.com/PabloXyu/Red-Pig-Logo/blob/main/Red%20Pig%20Animation.svg)
 ```html
 <?xml version="1.0" encoding="UTF-8"?>
 
