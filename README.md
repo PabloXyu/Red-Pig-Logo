@@ -2,9 +2,7 @@
 SVG Code
 <!-- The same file as code is used in readme.md as an image -->
 ![red-pig-logo-svg](https://github.com/PabloXyu/Red-Pig-Logo/blob/main/Red%20Pig%20Animation.svg)
-![red-pig-beziergon-svg](https://github.com/PabloXyu/Red-Pig-Logo/blob/main/Red%20Pig%20B%C3%A9ziergon.svg)
-
-https://github.com/PabloXyu/Red-Pig-Logo/blob/main/Red%20Pig%20B%C3%A9ziergon
+![red-pig-beziergon-svg](https://github.com/PabloXyu/Red-Pig-Logo/blob/main/Red%20Pig%20B%C3%A9ziergon%20Animation.svg)
 
 ```html
 <?xml version="1.0" encoding="UTF-8"?>
